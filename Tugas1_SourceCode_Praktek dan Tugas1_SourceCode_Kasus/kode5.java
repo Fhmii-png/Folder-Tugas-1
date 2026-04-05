@@ -1,3 +1,7 @@
+//Nama : Muh. Fahmi Ashar
+//NIM : 13020240333
+//Hari / Tanggal :Minggu, 05 April 2025
+//Jam : 09.10 WITA
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

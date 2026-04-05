@@ -1,3 +1,7 @@
+//Nama : Muh. Fahmi Ashar
+//NIM : 13020240333
+//Hari / Tanggal :Minggu, 05 April 2025
+//Jam : 10.30 WITA
 public class kode9 {
     public static void main(String[] args){
         int x = 1; int y=2; float fx; float fy;
